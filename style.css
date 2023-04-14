@@ -1,0 +1,22 @@
+.parent {
+  display: flex;
+  gap: 30px;
+justify-content: center;
+}
+
+.child { 
+border: 2px solid red;
+
+
+
+}
+button{
+    background-color: orange;
+    height: 30px;
+    border: none ;
+    border-radius: 5px;
+  
+}
+button:hover{
+background-color:yellow;
+}
